@@ -1,0 +1,5 @@
+model,random_row_split_r2,grouped_by_song_r2,random_row_split_mse,grouped_by_song_mse
+Linear Regression,0.055,0.030,233.63,246.63
+Decision Tree,0.493,-1.014,125.51,512.25
+Random Forest,0.638,-0.171,89.50,297.91
+Predict the mean,,-0.001,,254.68
